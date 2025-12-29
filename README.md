@@ -7,3 +7,6 @@ This is a mini version of Big AI models. It just gives the answer of few questio
 ____
 
 ## Code :
+
+https://www.programiz.com/online-compiler/8i76ezaSIPWlD 
+____
